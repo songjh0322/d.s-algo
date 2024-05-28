@@ -1,0 +1,4 @@
+﻿  1580.c
+C:\Users\happy\Desktop\1580\1580\1580.c(8,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\Desktop\1580\1580\1580.c(14,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1580.vcxproj -> C:\Users\happy\Desktop\1580\x64\Debug\1580.exe
